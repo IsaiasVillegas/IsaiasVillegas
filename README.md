@@ -3,10 +3,11 @@
 ---
 # 👋 Hola, soy Isaias Villegas
 
-Soy **Desarrollador Frontend autodidacta**, enfocado en construir interfaces web claras, funcionales y agradables para el usuario.
-Siempre estoy aprendiendo y buscando mejorar mis habilidades en el ecosistema frontend.
+💻 **Frontend Developer Jr** autodidacta  
+📍 México  
+🎯 Enfocado en crear interfaces web limpias, responsivas y funcionales
 
-Busco oportunidades donde pueda aportar valor desde el frontend y seguir creciendo profesionalmente.
+Soy desarrollador frontend con formación autodidacta. Me apasiona construir experiencias web que no solo se vean bien, sino que funcionen de forma clara e intuitiva. Actualmente sigo mejorando mis habilidades y trabajando en proyectos prácticos para fortalecer mi perfil profesional.
 
 ---
 
@@ -105,7 +106,6 @@ Si te interesa colaborar o conocer más sobre mi trabajo, puedes encontrarme en:
 * 📧 **Email:** [isaias2vv@gmail.com](mailto:isaias2vv@gmail.com)
 ---
 
-### ✨ Frase
-
-> **Haciendo que la web se vea bien y funcione mejor.**
+⭐ Siéntete libre de explorar mis repositorios  
+⭐ Feedback y sugerencias siempre son bienvenidas
 
