@@ -37,36 +37,39 @@ Busco oportunidades donde pueda aportar valor desde el frontend y seguir crecien
 * Mejorando mis habilidades en frontend
 * Construyendo proyectos personales
 * Aprendiendo buenas prácticas de desarrollo web
-* Explorando Angular para aplicaciones web escalable
-* Conociendo Astro JS para sitios rápidos y modernos
+* Explorando **Angular** para aplicaciones web escalable
+* Conociendo **Astro JS** para sitios rápidos y modernos
 
 ---
 
 ### 🚀 Proyectos destacados
 
+🔎 **También puedes ver más retos y soluciones en mi perfil de Frontend Mentor:**
+👉 Frontend Mentor: [@IsaiasVillegas](https://www.frontendmentor.io/profile/IsaiasVillegas)
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Proyecto Frontend 1
+### 🖥️ Agency landing page
 
 <img src="https://github.com/IsaiasVillegas/Sunnyside-agency-landing-page/blob/main/design/screenshot.png" style="width: 200px; height: 400px; object-fit:cover;" alt="Proyecto Frontend" />
 
-
-Interfaz web enfocada en diseño limpio y buena experiencia de usuario.
+Sitio web responsive diseñado bajo principios de mobile-first.
 
 **Stack:** HTML · CSS · JavaScript · Sass
+
 🔗 [Demo](https://isaiasvillegas.github.io/Sunnyside-agency-landing-page/)
 📂 [Código](https://github.com/IsaiasVillegas/Sunnyside-agency-landing-page)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Proyecto Frontend 2
+### 🖥️ Blogr landing page
 
-<img src="https://github.com/IsaiasVillegas/Blogr-landing-page/blob/main/design/screenshot.png" style="width: 200px; height: 400px; object-fit:cover;" alt="Proyecto FrontendI" />
+<img src="https://github.com/IsaiasVillegas/Blogr-landing-page/blob/main/design/screenshot.png" style="width: 200px; height: 400px; object-fit:cover;" alt="Proyecto Frontend" />
 
-Proyecto enfocado en la parte visual y usabilidad.
+Proyecto frontend enfocado en responsive design, garantizando una visualización óptima en distintos tamaños de pantalla. Implementa estados de interacción (hover, focus y active)
 
 **Stack:** HTML · CSS · JavaScript · Sass 
 
@@ -75,11 +78,34 @@ Proyecto enfocado en la parte visual y usabilidad.
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Todo app
+
+<img src="https://github.com/IsaiasVillegas/Todo-app/blob/main/public/screenshot.png" style="width: 100%; height: auto; object-fit:cover;" alt="Proyecto Frontend Todo app" />
+
+To-Do App responsive con filtros, modo oscuro y drag & drop, diseñada para ofrecer una experiencia rápida e intuitiva en cualquier dispositivo.
+
+**Stack:** HTML · CSS · JavaScript · SortableJS 
+
+🔗[Demo](https://nimble-kulfi-012255.netlify.app/) 
+📂[Código](https://github.com/IsaiasVillegas/Todo-app)
+
+</td>
+</tr>
 </table>
 
+---
+### 📫 Contacto
+
+Si te interesa colaborar o conocer más sobre mi trabajo, puedes encontrarme en:
+
+* 📧 **Email:** [isaias2vv@gmail.com](mailto:isaias2vv@gmail.com)
 ---
 
 ### ✨ Frase
 
-> **Haciendo que la web se vea bien y funcione mejor — Frontend Developer.**
+> **Haciendo que la web se vea bien y funcione mejor.**
 
