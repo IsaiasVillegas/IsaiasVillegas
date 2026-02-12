@@ -95,6 +95,21 @@ To-Do App responsive con filtros, modo oscuro y drag & drop, diseñada para ofre
 📂[Código](https://github.com/IsaiasVillegas/Todo-app)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🖥️ Contact form
+
+<img src="https://github.com/IsaiasVillegas/Contact-form-with-astro/blob/main/public/screenshot.png" style="width: 100%; height: auto; object-fit:cover;" alt="Proyecto Frontend Todo app" />
+
+Formulario accesible y responsive con validación dinámica del lado del cliente y enfoque en experiencia de usuario.
+
+**Stack:** HTML · Astro · Tailwind CSS · JavaScript
+
+🔗[Demo](https://ubiquitous-biscochitos-4bd954.netlify.app/) 
+📂[Código](https://github.com/IsaiasVillegas/Contact-form-with-astro)
+
+</td>
 </tr>
 </table>
 
