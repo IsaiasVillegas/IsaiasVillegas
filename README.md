@@ -100,14 +100,14 @@ To-Do App responsive con filtros, modo oscuro y drag & drop, diseñada para ofre
 
 ### 🖥️ Contact form
 
-<img src="https://github.com/IsaiasVillegas/Contact-form-with-astro/blob/main/public/screenshot.png" style="width: 100%; height: auto; object-fit:cover;" alt="Proyecto Frontend Todo app" />
+<img src="https://github.com/IsaiasVillegas/Contact-form-with-Angular/blob/main/public/screenshot.png" style="width: 100%; height: auto; object-fit:cover;" alt="Proyecto Frontend Todo app" />
 
-Formulario accesible y responsive con validación dinámica del lado del cliente y enfoque en experiencia de usuario.
+Formulario de contacto en Angular (standalone + Reactive Forms) con componentes reutilizables (CVA), validaciones, accesibilidad (ARIA, teclado) y UI con Tailwind.
 
-**Stack:** HTML · Astro · Tailwind CSS · JavaScript
+**Stack:** Angular · Tailwind CSS
 
-🔗[Demo](https://ubiquitous-biscochitos-4bd954.netlify.app/) 
-📂[Código](https://github.com/IsaiasVillegas/Contact-form-with-astro)
+🔗[Demo](https://contact-form-angular-isaias-villegas.netlify.app/) 
+📂[Código](https://github.com/IsaiasVillegas/Contact-form-with-Angular)
 
 </td>
 </tr>
