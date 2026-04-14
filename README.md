@@ -111,6 +111,22 @@ Formulario de contacto en Angular (standalone + Reactive Forms) con componentes 
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+  
+### 🖥️ REST Countries App
+
+<img src="https://github.com/IsaiasVillegas/REST-Countries-API-with-color-theme-switcher-Angular/blob/main/public/screenshot.png" style="width: 100%; height: auto; object-fit:cover;" alt="Proyecto Frontend REST Countries App" />
+
+Aplicación frontend moderna enfocada en **performance, UX y arquitectura escalable** utilizando **Angular con Signals y NgRx Signal Store**. Implementé una experiencia fluida con **búsqueda en tiempo real, filtros dinámicos e infinite scroll**, optimizando la renderización y el manejo de estado.
+
+**Stack:** Angular · NgRx Signals · Angular Material · TailwindCSS v4 · TypeScript
+
+🔗[Demo](https://countries-api-villegas.netlify.app/) 
+📂[Código](https://github.com/IsaiasVillegas/REST-Countries-API-with-color-theme-switcher-Angular)
+</td>
+</tr>
 </table>
 
 ---
