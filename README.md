@@ -7,7 +7,11 @@
 📍 México  
 🎯 Enfocado en crear interfaces web limpias, responsivas y funcionales
 
-Soy desarrollador frontend con formación autodidacta. Me apasiona construir experiencias web que no solo se vean bien, sino que funcionen de forma clara e intuitiva. Actualmente sigo mejorando mis habilidades y trabajando en proyectos prácticos para fortalecer mi perfil profesional.
+Desarrollador Frontend con formación en Informática Administrativa, especializado en la construcción de interfaces
+web responsivas, accesibles y centradas en el usuario. Experiencia desarrollando aplicaciones con Angular, JavaScript
+(ES6+), TypeScript, HTML y CSS, aplicando buenas prácticas como arquitectura modular, componentes reutilizables
+y metodologías ágiles.
+Actualmente sigo mejorando mis habilidades y trabajando en proyectos prácticos para fortalecer mi perfil profesional.
 
 ---
 
