@@ -49,6 +49,38 @@ Soy desarrollador frontend con formación autodidacta. Me apasiona construir exp
 👉 Frontend Mentor: [@IsaiasVillegas](https://www.frontendmentor.io/profile/IsaiasVillegas)
 
 <table>
+  <tr>
+<td width="50%" valign="top">
+  
+### 🖥️ REST Countries App
+
+<img src="https://github.com/IsaiasVillegas/REST-Countries-API-with-color-theme-switcher-Angular/blob/main/public/screenshot.png" style="width: 100%; height: auto; object-fit:cover;" alt="Proyecto Frontend REST Countries App" />
+
+Aplicación frontend moderna enfocada en **performance, UX y arquitectura escalable** utilizando **Angular con Signals y NgRx Signal Store**. Implementé una experiencia fluida con **búsqueda en tiempo real, filtros dinámicos e infinite scroll**, optimizando la renderización y el manejo de estado.
+
+**Stack:** Angular · NgRx Signals · Angular Material · TailwindCSS v4 · TypeScript
+
+🔗[Demo](https://countries-api-villegas.netlify.app/) 
+📂[Código](https://github.com/IsaiasVillegas/REST-Countries-API-with-color-theme-switcher-Angular)
+</td>
+
+<td width="50%" valign="top">
+  
+### 🖥️ E-Commerce App — Angular Moderno
+
+<img src="https://github.com/IsaiasVillegas/Angular-Ecommerce-App/blob/main/public/screenshot.png" style="width: 100%; height: auto; object-fit:cover;" alt="Proyecto Frontend E-Commerce App" />
+
+Aplicación de comercio electrónico moderna enfocada en performance, UX y arquitectura escalable utilizando Angular con Signals y NgRx Signal Store. Implementa una experiencia fluida con búsqueda en tiempo real, filtros por categoría, gestión de carrito y lista de deseos, además de transiciones suaves entre vistas para una navegación más natural.
+
+Construida con standalone components y una arquitectura limpia sin NgModules obsoletos, aprovechando View Transitions API para mejorar la experiencia visual y Angular Material + TailwindCSS para una interfaz moderna y consistente.
+
+**Stack**: Angular · NgRx Signal Store · Angular Signals · Angular Material · TailwindCSS · TypeScript
+
+🔗[Demo](https://ng-ecommerce-isaias-villegas.netlify.app/products/all) 
+📂[Código](https://github.com/IsaiasVillegas/Angular-Ecommerce-App)
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -109,22 +141,6 @@ Formulario de contacto en Angular (standalone + Reactive Forms) con componentes 
 🔗[Demo](https://contact-form-angular-isaias-villegas.netlify.app/) 
 📂[Código](https://github.com/IsaiasVillegas/Contact-form-with-Angular)
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-  
-### 🖥️ REST Countries App
-
-<img src="https://github.com/IsaiasVillegas/REST-Countries-API-with-color-theme-switcher-Angular/blob/main/public/screenshot.png" style="width: 100%; height: auto; object-fit:cover;" alt="Proyecto Frontend REST Countries App" />
-
-Aplicación frontend moderna enfocada en **performance, UX y arquitectura escalable** utilizando **Angular con Signals y NgRx Signal Store**. Implementé una experiencia fluida con **búsqueda en tiempo real, filtros dinámicos e infinite scroll**, optimizando la renderización y el manejo de estado.
-
-**Stack:** Angular · NgRx Signals · Angular Material · TailwindCSS v4 · TypeScript
-
-🔗[Demo](https://countries-api-villegas.netlify.app/) 
-📂[Código](https://github.com/IsaiasVillegas/REST-Countries-API-with-color-theme-switcher-Angular)
 </td>
 </tr>
 </table>
